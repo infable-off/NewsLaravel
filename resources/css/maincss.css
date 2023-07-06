@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+}
+.container{
+    margin: 0 auto;
+    background-color: black;
+    color: whitesmoke;
+    width: 1024px;
+    height: 100%;
+}
+.header{
+
+}
+.main{
+
+}
+.footer{
+
+}
+.article
+{
+    height: 100px;
+    width: 70%;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.headArticle{}
+.mainArticle{}
